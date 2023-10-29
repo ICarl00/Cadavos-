@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Welcome to my GitHub!<br><br>I'm Ricarlo Velasquez Cadavos, a passionate Front-End Developer, Web Designer, and User Interface Designer. With a creative mindset and a keen eye for detail, I thrive on crafting elegant and engaging digital experiences. My journey in the world of web development has been a thrilling adventure, and I'm here to share my projects and collaborate with like-minded individuals. I trained with DIgital Innov in my work immersion subject one of the top digital marketing company in the Philippines.</p>
+<p align="left">👋 Welcome to my GitHub!<br><br>I'm Ricarlo Velasquez Cadavos, a passionate Front-End Developer, Web Designer, and User Interface Designer. With a creative mindset and a keen eye for detail, I thrive on crafting elegant and engaging digital experiences. My journey in the world of web development has been a thrilling adventure, and I'm here to share my projects and collaborate with like-minded individuals.</p>
 
 ###
 
